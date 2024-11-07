@@ -1,0 +1,54 @@
+README.md
+body {
+    background-color: rgb(49, 161, 124);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {text-align: center;
+color: rgb(0, 0, 0);
+font-size: 45px;
+
+}
+h2{
+    font: size 34px;;
+    color:black;
+    text-align: center;
+}
+h3{ font-size: 20px;
+color:rgb(128, 103, 21);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;}
+
+.mi-imagen{
+    width: 200px;
+    height:auto;
+}
+
+.mi-imagen {
+    border: 2px solid rgb(175, 175, 185);
+    border: radius 1px;
+
+}
+mi-imagen{
+    width: 200px;
+    height:auto;
+}
+
+.mi-imagen {
+    border: 2px solid rgb(175, 175, 185);
+    border: radius 1px;
+
+}
+mi-imagen{
+    width: 200px;
+    height:auto;
+}
+
+.mi-imagen {
+    border: 2px solid rgb(175, 175, 185);
+    border: radius 1px;
+
+}
+.mi-imagen {
+    width:100;
+    height: 60;
+}
