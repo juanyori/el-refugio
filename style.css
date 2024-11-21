@@ -1,13 +1,13 @@
-README.md
-h1 {
+.titulo h1 {
     font: size 56px;
     color:black;
-    text-align: center
+    text-align: center;
+    margin: 20px;
 }
 h2{
     font: size 24px;;
     color:black;
-    text-align: center
+    text-align: center;
 }
 h3{ font-size: 20px;
 color:rgb(128, 103, 21);
